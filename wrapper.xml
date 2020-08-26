@@ -1,0 +1,21 @@
+<!-- VAST document with one Wrapper ad -->
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0">
+  <Ad id="602833">
+  <Wrapper>
+    <AdSystem version="4.11.0-10">LiveRail</AdSystem>
+    <VASTAdTagURI>https://cdn.theoplayer.com/demos/preroll.xml</VASTAdTagURI>
+	<Creatives>
+
+		<Creative AdID="602833">
+			<Linear>
+				<TrackingEvents>
+				</TrackingEvents>
+			</Linear>
+		</Creative>
+    
+	</Creatives>
+  </Wrapper>
+  </Ad>
+
+</VAST>
